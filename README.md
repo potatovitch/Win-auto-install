@@ -10,7 +10,7 @@
 [firefox]()   
 [zen browser]()   
 [discord]()  
-[msi afterburner]() 
+[msi afterburner]()  
 [vscode]()  
 [backesmod]()  
 
